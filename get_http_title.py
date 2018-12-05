@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Description: todo
-# @author: kakak~~
+# @author: ljq
 # Created on 2018年7月26日下午8:54:28
 # @version V1.0
 
